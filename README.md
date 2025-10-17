@@ -5,6 +5,7 @@ Vision systems for SAR Legged Robot to detect victim in Indonesian SAR Legged Ro
 - Optimized inference for NVDIA GPU
 
 ## Victim Dataset
+https://universe.roboflow.com/myworkspace-vi5mm/datacobanew
 
 ## Training Notebooks
 https://colab.research.google.com/drive/1RFFaoFPvOF2Unn6aHxhcV3poeVyjak8h?usp=sharing
